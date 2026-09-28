@@ -1,3 +1,12 @@
 {
-  "lessons": []
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "number": 1,
+      "title": "First class",
+      "subtitle": "Outcomes B1 · Unit 1 · First class",
+      "status": "published",
+      "publishedAt": "2026-09-28"
+    }
+  ]
 }

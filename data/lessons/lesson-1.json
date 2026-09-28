@@ -1,0 +1,1329 @@
+{
+  "id": "lesson-1",
+  "number": 1,
+  "title": "First class",
+  "subtitle": "Outcomes B1 · Unit 1 · First class",
+  "status": "published",
+  "publishedAt": "2026-09-28",
+  "notification": {
+    "enabled": true,
+    "version": 1
+  },
+  "blocks": [
+    {
+      "type": "section",
+      "title": "VOCABULARY · Talking about people",
+      "eyebrow": "Unit 1 · First class"
+    },
+    {
+      "type": "exercise",
+      "id": "u1-vocab-people-1",
+      "title": "1",
+      "instructions": "Cross out one example in each group that isn’t possible.",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "My friend Lukas is from Germany / Arabic / Japan.",
+          "input": "single",
+          "options": [
+            "Germany",
+            "Arabic",
+            "Japan"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "My sister’s a translator / civil servant / engineer.",
+          "input": "single",
+          "options": [
+            "translator",
+            "civil servant",
+            "engineer"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "My mum works in a warehouse / office / university.",
+          "input": "single",
+          "options": [
+            "warehouse",
+            "office",
+            "university"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "My brother speaks good Spanish and a bit of Portuguese / Russian / Poland.",
+          "input": "single",
+          "options": [
+            "Portuguese",
+            "Russian",
+            "Poland"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "I’m doing a degree in Lawyer / Economics / Medicine at the moment.",
+          "input": "single",
+          "options": [
+            "Lawyer",
+            "Economics",
+            "Medicine"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "prompt": "My family are all really into reading / sport / cook.",
+          "input": "single",
+          "options": [
+            "reading",
+            "sport",
+            "cook"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "prompt": "I am an only children / the youngest of four kids / a twin.",
+          "input": "single",
+          "options": [
+            "an only children",
+            "the youngest of four kids",
+            "a twin"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "prompt": "My uncle is single / married / separate.",
+          "input": "single",
+          "options": [
+            "single",
+            "married",
+            "separate"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "GRAMMAR · Auxiliary verbs",
+      "eyebrow": "Unit 1 · First class"
+    },
+    {
+      "type": "grammar-link",
+      "id": "aux-link",
+      "grammarId": "auxiliary-verbs",
+      "title": "Auxiliary verbs",
+      "text": "Study the grammar guide and complete the 16-task mini-test.",
+      "buttonLabel": "Open grammar"
+    },
+    {
+      "type": "exercise",
+      "id": "u1-grammar-2",
+      "title": "2",
+      "instructions": "Write questions that you might ask another student at the beginning of a new class.",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "What / name?",
+          "input": "text",
+          "answer": "What’s your name?"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "Where / from?",
+          "input": "text",
+          "answer": "Where are you from?"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "What / do?",
+          "input": "text",
+          "answer": "What do you do?"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "What / do / when / not work?",
+          "input": "text",
+          "answer": "What do you do when you’re not working?"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "How long / study / English?",
+          "input": "text",
+          "answer": "How long have you studied English?"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "prompt": "Why / learn / English?",
+          "input": "text",
+          "answer": "Why are you learning English?"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "prompt": "study / here / before?",
+          "input": "text",
+          "answer": "Have you studied here before?"
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "prompt": "meet / the teacher / yet?",
+          "input": "text",
+          "answer": "Have you met the teacher yet?"
+        },
+        {
+          "id": "9",
+          "number": 9,
+          "prompt": "What / think of / the test we did?",
+          "input": "text",
+          "answer": "What do you think of the test we did?"
+        },
+        {
+          "id": "10",
+          "number": 10,
+          "prompt": "What / go / do / after this class?",
+          "input": "text",
+          "answer": "What are you going to do after this class?"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "id": "u1-grammar-3",
+      "title": "3",
+      "instructions": "Match the answers (a–j) to the questions (1–10) in exercise 2.",
+      "items": [
+        {
+          "id": "a",
+          "number": "a",
+          "prompt": "I’m not sure. Maybe we could go for a coffee.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 9
+        },
+        {
+          "id": "b",
+          "number": "b",
+          "prompt": "Alava. It’s a small town in the north of Spain.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "c",
+          "number": "c",
+          "prompt": "No, never. It’s my first time in a school in the UK.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 6
+        },
+        {
+          "id": "d",
+          "number": "d",
+          "prompt": "I’m into cooking and spending time with my family.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "e",
+          "number": "e",
+          "prompt": "The grammar was OK but I was nervous in the speaking test.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 8
+        },
+        {
+          "id": "f",
+          "number": "f",
+          "prompt": "I work in the food industry.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "g",
+          "number": "g",
+          "prompt": "About five years, on and off.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 4
+        },
+        {
+          "id": "h",
+          "number": "h",
+          "prompt": "Magda, short for Magdalena.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "i",
+          "number": "i",
+          "prompt": "Yes, she seems very nice.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 7
+        },
+        {
+          "id": "j",
+          "number": "j",
+          "prompt": "I need it for my job. Most of our foreign clients speak English.",
+          "input": "select",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 5
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "id": "u1-grammar-4",
+      "title": "4",
+      "instructions": "Nick is thinking of doing a course at an international language centre. Complete his questions to the receptionist. Use the correct form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "Well, what ",
+            " does a typical class ",
+            "? (involve)"
+          ],
+          "answers": [
+            "does",
+            "involve"
+          ]
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "So how many students ",
+            " there in a class? (be)"
+          ],
+          "answers": [
+            "are"
+          ]
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "And where ",
+            " they ",
+            "? (come from)"
+          ],
+          "answers": [
+            "do",
+            "come from"
+          ]
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "And how long ",
+            " each class ",
+            "? (last)"
+          ],
+          "answers": [
+            "does",
+            "last"
+          ]
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "How ",
+            " you ",
+            " on a student’s level? (decide)"
+          ],
+          "answers": [
+            "do",
+            "decide"
+          ]
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "What qualifications ",
+            " the teachers ",
+            "? (have)"
+          ],
+          "answers": [
+            "do",
+            "have"
+          ]
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "which ones ",
+            " you ",
+            " in the next course? (go / use)"
+          ],
+          "answers": [
+            "are",
+            "going to use"
+          ]
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "how much ",
+            " the course ",
+            "? (cost)"
+          ],
+          "answers": [
+            "does",
+            "cost"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "id": "u1-grammar-5",
+      "title": "5",
+      "instructions": "Choose the correct words in italics in the quiz below. Then see if you know the answers to the questions.",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "Which / What language does / uses the Cyrillic alphabet?",
+          "input": "inline-single",
+          "segments": [
+            "",
+            "",
+            ""
+          ],
+          "choices": [
+            {
+              "number": 1,
+              "options": [
+                "Which",
+                "What"
+              ],
+              "answer": 0
+            },
+            {
+              "number": 2,
+              "options": [
+                "does",
+                "uses"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "How many / much living languages exist / do exist in the world today?",
+          "input": "inline-single",
+          "segments": [
+            "",
+            "",
+            ""
+          ],
+          "choices": [
+            {
+              "number": 1,
+              "options": [
+                "How many",
+                "much"
+              ],
+              "answer": 0
+            },
+            {
+              "number": 2,
+              "options": [
+                "exist",
+                "do exist"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "Why / How do you write / writing Hebrew and Arabic?",
+          "input": "inline-single",
+          "segments": [
+            "",
+            "",
+            ""
+          ],
+          "choices": [
+            {
+              "number": 1,
+              "options": [
+                "Why",
+                "How"
+              ],
+              "answer": 1
+            },
+            {
+              "number": 2,
+              "options": [
+                "do you write",
+                "writing"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "When / Where does the word ‘alphabet’ originally comes / come from?",
+          "input": "inline-single",
+          "segments": [
+            "",
+            "",
+            ""
+          ],
+          "choices": [
+            {
+              "number": 1,
+              "options": [
+                "When",
+                "Where"
+              ],
+              "answer": 1
+            },
+            {
+              "number": 2,
+              "options": [
+                "comes",
+                "come"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "What / How percentage of the Internet is / are in English?",
+          "input": "inline-single",
+          "segments": [
+            "",
+            "",
+            ""
+          ],
+          "choices": [
+            {
+              "number": 1,
+              "options": [
+                "What",
+                "How"
+              ],
+              "answer": 0
+            },
+            {
+              "number": 2,
+              "options": [
+                "is",
+                "are"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "prompt": "What / Who did create / created the first computer programming language?",
+          "input": "inline-single",
+          "segments": [
+            "",
+            "",
+            ""
+          ],
+          "choices": [
+            {
+              "number": 1,
+              "options": [
+                "What",
+                "Who"
+              ],
+              "answer": 1
+            },
+            {
+              "number": 2,
+              "options": [
+                "did create",
+                "created"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "DEVELOPING CONVERSATIONS · Asking follow-up questions",
+      "eyebrow": "Unit 1 · First class"
+    },
+    {
+      "type": "exercise",
+      "id": "u1-conv-6",
+      "title": "6",
+      "instructions": "Use the questions in the box to complete the conversations. There is one extra question each time.",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "",
+          "input": "select-gaps",
+          "layout": "dialogue",
+          "segments": [
+            "A: Where are you from?\nB: Hungary.\nA: Oh, really? ",
+            "\nB: A town called Szeged. Have you heard of it?\nA: No, sorry, I haven’t. Have you studied here before?\nB: No, never.\nA: But your English is really good. ",
+            "\nB: About seven years, on and off. But it’s a lot of work, with my degree course, too.\nA: Oh, ",
+            "\nB: Medicine.\nA: Really, me too. ",
+            "\nB: I’ve just finished my second year."
+          ],
+          "options": [
+            "What year are you in?",
+            "How long have you been learning it?",
+            "Whose class were you in?",
+            "What are you studying?",
+            "Whereabouts?"
+          ],
+          "answers": [
+            4,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "",
+          "input": "select-gaps",
+          "layout": "dialogue",
+          "segments": [
+            "A: Hi, again. Did you have a good weekend?\nB: Yes, thanks. It was fun.\nA: ",
+            "\nB: I went with my sister to London. She’s over from Italy at the moment. We went shopping.\nA: ",
+            "\nB: She bought some presents for everyone at home.\nA: Oh yes. ",
+            "\nB: Three sisters and a brother. What about you?\nA: Just one brother.\nB: ",
+            "\nA: The same age – in fact we’re twins!"
+          ],
+          "options": [
+            "How many brothers and sisters have you got?",
+            "What do they do?",
+            "What did you do?",
+            "Did you get anything nice?",
+            "Older or younger?"
+          ],
+          "answers": [
+            2,
+            3,
+            0,
+            4
+          ]
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "",
+          "input": "select-gaps",
+          "layout": "dialogue",
+          "segments": [
+            "A: What do you do?\nB: I’m a student, from Argentina. I’m studying Law.\nA: Oh, ",
+            "\nB: The University of Buenos Aires.\nA: OK. ",
+            "\nB: I want to do international law. What about you?\nA: I’m in computing.\nB: Right. ",
+            "\nA: At a programming company in Frankfurt.\nB: So what do you do when you’re not working?\nA: I’m a DJ in a club.\nB: Really? ",
+            "\nA: All sorts really – funk, jazz, hip-hop."
+          ],
+          "options": [
+            "What kind of music are you into?",
+            "Where are you doing that?",
+            "Do you enjoy it?",
+            "So why are you studying English?",
+            "Where do you work?"
+          ],
+          "answers": [
+            1,
+            3,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "VOCABULARY · Talking about languages",
+      "eyebrow": "Unit 1 · First class"
+    },
+    {
+      "type": "exercise",
+      "id": "u1-lang-vocab-1",
+      "title": "1",
+      "instructions": "Replace the underlined words with the expressions in the box.",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "At first I really ",
+            " speaking French at work. No-one understood ",
+            " the way I said things."
+          ],
+          "answers": [
+            "struggled",
+            "my accent"
+          ]
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "",
+          "input": "gaps",
+          "segments": [
+            "It’s hard to be ",
+            " all the time. ",
+            " complete knowledge of a language can take years."
+          ],
+          "answers": [
+            "accurate",
+            "mastering"
+          ]
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "I’m not brilliant at German, but I can survive in the language in most everyday situations.",
+          "input": "text",
+          "answer": "get by"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "I’m pretty good at Japanese now. I learnt it without formal lessons by living in Kyoto for about 10 years.",
+          "input": "text",
+          "answer": "picked it up"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "I haven’t been studying Italian for very long, so it’s hard to get across what I want to say sometimes.",
+          "input": "text",
+          "answer": "express"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "prompt": "I was born in Greece but I went to an international school, so I speak English very well.",
+          "input": "text",
+          "answer": "fluently"
+        }
+      ],
+      "wordBank": [
+        "get by",
+        "fluently",
+        "express",
+        "mastering",
+        "my accent",
+        "accurate",
+        "picked it up",
+        "struggled"
+      ]
+    },
+    {
+      "type": "exercise",
+      "id": "u1-lang-vocab-2",
+      "title": "2",
+      "instructions": "Look at the underlined words. What type of word is each one?",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "taken up",
+          "input": "text",
+          "answer": "phrasal verb"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "on",
+          "input": "text",
+          "answer": "preposition"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "hard",
+          "input": "text",
+          "answer": "adjective"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "well",
+          "input": "text",
+          "answer": "adverb"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "advice",
+          "input": "text",
+          "answer": "noun"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "prompt": "mean",
+          "input": "text",
+          "answer": "verb"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "prompt": "what",
+          "input": "text",
+          "answer": "pronoun"
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "prompt": "annoying",
+          "input": "text",
+          "answer": "adjective"
+        },
+        {
+          "id": "9",
+          "number": 9,
+          "prompt": "take on",
+          "input": "text",
+          "answer": "verb"
+        }
+      ],
+      "dialogue": [
+        "I’ve just taken up painting at our local art college. To be honest, I’m no Van Gogh. Doing anything for the first time is hard and people always want to do well. But my advice is to concentrate on the activity. What I mean is, enjoy what you are doing and don’t worry about the end result. And never compare yourself with anyone else. There will always be those annoying talented people who can take on any new challenge and succeed. Ignore them."
+      ]
+    },
+    {
+      "type": "exercise",
+      "id": "u1-lang-vocab-3-1",
+      "title": "3.1",
+      "instructions": "What’s the opposite of these words and expressions? Circle the correct option.",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "easy – hard / hardly",
+          "input": "single",
+          "options": [
+            "hard",
+            "hardly"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "slowly – fastly / fast",
+          "input": "single",
+          "options": [
+            "fastly",
+            "fast"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "fluent – unfluent / not very fluent",
+          "input": "single",
+          "options": [
+            "unfluent",
+            "not very fluent"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "a minor mistake – a serious / large mistake",
+          "input": "single",
+          "options": [
+            "a serious mistake",
+            "a large mistake"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "good progress – slow / bad progress",
+          "input": "single",
+          "options": [
+            "slow progress",
+            "bad progress"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "prompt": "a basic level of Japanese – a high / tall level of Japanese",
+          "input": "single",
+          "options": [
+            "a high level of Japanese",
+            "a tall level of Japanese"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "id": "u1-lang-vocab-3-2",
+      "title": "3.2",
+      "instructions": "Do these words collocate with make or do?",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "a mistake",
+          "input": "single",
+          "options": [
+            "make",
+            "do"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "your homework",
+          "input": "single",
+          "options": [
+            "make",
+            "do"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "a good job",
+          "input": "single",
+          "options": [
+            "make",
+            "do"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "an exercise",
+          "input": "single",
+          "options": [
+            "make",
+            "do"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "a course",
+          "input": "single",
+          "options": [
+            "make",
+            "do"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "prompt": "an effort",
+          "input": "single",
+          "options": [
+            "make",
+            "do"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "prompt": "progress",
+          "input": "single",
+          "options": [
+            "make",
+            "do"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "prompt": "a fool of yourself",
+          "input": "single",
+          "options": [
+            "make",
+            "do"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "id": "u1-lang-vocab-3-3",
+      "title": "3.3",
+      "instructions": "Write the correct prepositions.",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "worry ___ your progress",
+          "input": "text",
+          "answer": "about"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "concentrate ___ work",
+          "input": "text",
+          "answer": "on"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "rely ___ your best friend",
+          "input": "text",
+          "answer": "on"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "deal ___ a problem",
+          "input": "text",
+          "answer": "with"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "id": "u1-lang-vocab-3-4",
+      "title": "3.4",
+      "instructions": "Where is the stress on these words?",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "evidence",
+          "input": "text",
+          "answer": "ev",
+          "scored": false,
+          "placeholder": "Mark the stressed syllable"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "motivation",
+          "input": "text",
+          "answer": "va",
+          "scored": false,
+          "placeholder": "Mark the stressed syllable"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "environment",
+          "input": "text",
+          "answer": "vi",
+          "scored": false,
+          "placeholder": "Mark the stressed syllable"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "bilingual",
+          "input": "text",
+          "answer": "lin",
+          "scored": false,
+          "placeholder": "Mark the stressed syllable"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "continuity",
+          "input": "text",
+          "answer": "nu",
+          "scored": false,
+          "placeholder": "Mark the stressed syllable"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "prompt": "embarrassed",
+          "input": "text",
+          "answer": "bar",
+          "scored": false,
+          "placeholder": "Mark the stressed syllable"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "id": "u1-lang-vocab-3-5",
+      "title": "3.5",
+      "instructions": "What do these words have in common?",
+      "items": [
+        {
+          "id": "1",
+          "number": "",
+          "prompt": "honest · knowledge · write · foreign",
+          "input": "text",
+          "answer": "They all contain silent letters",
+          "acceptedAnswers": [
+            "They all contain silent letters",
+            "silent letters"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "LISTENING",
+      "eyebrow": "Unit 1 · First class"
+    },
+    {
+      "type": "exercise",
+      "id": "u1-listening-4",
+      "title": "4",
+      "instructions": "1.1 You are going to hear Trisha and Andy talking about a change in Trisha’s life. Choose the correct answers, a, b or c.",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "prompt": "What course has Trisha decided to go on?",
+          "input": "single",
+          "options": [
+            "a foreign language",
+            "knitting",
+            "building skills"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "prompt": "What is Andy’s reaction to her news?",
+          "input": "single",
+          "options": [
+            "He’s impressed.",
+            "He wants to try something new too.",
+            "He criticises her."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "prompt": "What was the problem at the first class?",
+          "input": "single",
+          "options": [
+            "All the other students were men.",
+            "Trisha didn’t know the answer to a question.",
+            "Trisha said something silly."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "prompt": "What will Trisha do in the first term?",
+          "input": "single",
+          "options": [
+            "whatever she likes",
+            "general skills",
+            "bricklaying"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "prompt": "Trisha thinks her new job will be",
+          "input": "single",
+          "options": [
+            "well paid",
+            "interesting",
+            "hard work"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}
