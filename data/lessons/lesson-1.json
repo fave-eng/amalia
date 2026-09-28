@@ -22,6 +22,13 @@
       "instructions": "Cross out one example in each group that isn’t possible.",
       "items": [
         {
+          "id": "u1-vocab-people-1-example",
+          "number": "Example",
+          "prompt": "My friend Lukas is from Germany / Arabic / Japan.",
+          "example": true,
+          "exampleAnswer": "Arabic"
+        },
+        {
           "id": "1",
           "number": 1,
           "prompt": "My friend Lukas is from Germany / Arabic / Japan.",
@@ -117,13 +124,7 @@
           ],
           "answer": 2
         }
-      ],
-      "example": {
-        "label": "Example",
-        "text": "My friend Lukas is from Germany / Arabic / Japan. → Arabic",
-        "note": "Cross out the option that is not possible."
-      },
-      "instruction": "Example: My friend Lukas is from Germany / Arabic / Japan. → Arabic Cross out the option that is not possible."
+      ]
     },
     {
       "type": "section",
@@ -144,6 +145,13 @@
       "title": "2",
       "instructions": "Write questions that you might ask another student at the beginning of a new class.",
       "items": [
+        {
+          "id": "u1-grammar-2-example",
+          "number": "Example",
+          "prompt": "What / name?",
+          "example": true,
+          "exampleAnswer": "What’s your name?"
+        },
         {
           "id": "1",
           "number": 1,
@@ -214,13 +222,7 @@
           "input": "text",
           "answer": "What are you going to do after this class?"
         }
-      ],
-      "example": {
-        "label": "Example",
-        "text": "What / name? → What’s your name?",
-        "note": "Use the words to write a complete question."
-      },
-      "instruction": "Example: What / name? → What’s your name? Use the words to write a complete question."
+      ]
     },
     {
       "type": "exercise",
@@ -228,6 +230,13 @@
       "title": "4",
       "instructions": "Nick is thinking of doing a course at an international language centre. Complete his questions to the receptionist. Use the correct form of the verbs in brackets.",
       "items": [
+        {
+          "id": "u1-grammar-4-example",
+          "number": "Example",
+          "prompt": "Could you give me some information on your Russian courses?",
+          "example": true,
+          "exampleAnswer": "Complete example"
+        },
         {
           "id": "1",
           "number": 1,
@@ -346,13 +355,7 @@
             "cost"
           ]
         }
-      ],
-      "example": {
-        "label": "Example",
-        "text": "Could you give me some information on your Russian courses?",
-        "note": "Complete the question with the correct form of the verb in brackets."
-      },
-      "instruction": "Example: Could you give me some information on your Russian courses? Complete the question with the correct form of the verb in brackets."
+      ]
     },
     {
       "type": "section",
@@ -365,6 +368,13 @@
       "title": "6",
       "instructions": "Use the questions in the box to complete the conversations. There is one extra question each time.",
       "items": [
+        {
+          "id": "u1-conv-6-example",
+          "number": "Example",
+          "prompt": "A: Where are you from?\nB: Hungary.\nA: Oh, really! ______",
+          "example": true,
+          "exampleAnswer": "Whereabouts?"
+        },
         {
           "id": "1",
           "number": 1,
@@ -446,13 +456,7 @@
             0
           ]
         }
-      ],
-      "example": {
-        "label": "Example",
-        "text": "A: Where are you from? B: Hungary. A: Oh, really? Whereabouts?",
-        "note": "Choose the follow-up question that continues the conversation naturally."
-      },
-      "instruction": "Example: A: Where are you from? B: Hungary. A: Oh, really? Whereabouts? Choose the follow-up question that continues the conversation naturally."
+      ]
     },
     {
       "type": "section",
@@ -465,6 +469,13 @@
       "title": "1",
       "instructions": "Replace the underlined words with the expressions in the box.",
       "items": [
+        {
+          "id": "u1-lang-vocab-1-example",
+          "number": "Example",
+          "prompt": "At first I really had problems speaking French at work.",
+          "example": true,
+          "exampleAnswer": "I struggled with French at work."
+        },
         {
           "id": "1",
           "number": 1,
@@ -533,13 +544,7 @@
         "accurate",
         "picked it up",
         "struggled"
-      ],
-      "example": {
-        "label": "Example",
-        "text": "I had problems speaking French at work. → I struggled with French at work.",
-        "note": "Replace the underlined words with an expression from the box."
-      },
-      "instruction": "Example: I had problems speaking French at work. → I struggled with French at work. Replace the underlined words with an expression from the box."
+      ]
     },
     {
       "type": "section",
@@ -552,6 +557,13 @@
       "title": "4",
       "instructions": "1.1 You are going to hear Trisha and Andy talking about a change in Trisha’s life. Choose the correct answers, a, b or c.",
       "items": [
+        {
+          "id": "u1-listening-4-example",
+          "number": "Example",
+          "prompt": "What course has Trisha decided to go on?",
+          "example": true,
+          "exampleAnswer": "Choose a, b or c after listening."
+        },
         {
           "id": "1",
           "number": 1,
@@ -613,12 +625,6 @@
           "answer": 0
         }
       ],
-      "example": {
-        "label": "Example",
-        "text": "Question: What course has Trisha decided to go on? → Choose one answer: a, b or c.",
-        "note": "Listen and choose the correct option."
-      },
-      "instruction": "Example: Question: What course has Trisha decided to go on? → Choose one answer: a, b or c. Listen and choose the correct option.",
       "audio": "audio/Unit 01/out3e_4int_sb_u01C_ex03_04.mp3"
     }
   ]

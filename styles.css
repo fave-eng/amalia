@@ -3256,3 +3256,29 @@ body[data-view="lesson"] #lesson-root {
   .reading-quiz-reference { position: static; }
   .reading-quiz-layout { grid-template-columns: 1fr; }
 }
+
+/* homework worked examples */
+.exercise-example {
+  border: 1px dashed #aeb8ff;
+  background: #f7f8ff;
+}
+.exercise-example .exercise-number {
+  width: auto;
+  min-width: 64px;
+  padding: 0 10px;
+}
+.example-answer {
+  margin-top: 10px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: #eef0ff;
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+}
+.example-answer span {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+}
