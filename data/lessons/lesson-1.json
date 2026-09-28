@@ -117,7 +117,13 @@
           ],
           "answer": 2
         }
-      ]
+      ],
+      "example": {
+        "label": "Example",
+        "text": "My friend Lukas is from Germany / Arabic / Japan. → Arabic",
+        "note": "Cross out the option that is not possible."
+      },
+      "instruction": "Example: My friend Lukas is from Germany / Arabic / Japan. → Arabic Cross out the option that is not possible."
     },
     {
       "type": "section",
@@ -208,7 +214,13 @@
           "input": "text",
           "answer": "What are you going to do after this class?"
         }
-      ]
+      ],
+      "example": {
+        "label": "Example",
+        "text": "What / name? → What’s your name?",
+        "note": "Use the words to write a complete question."
+      },
+      "instruction": "Example: What / name? → What’s your name? Use the words to write a complete question."
     },
     {
       "type": "exercise",
@@ -334,7 +346,13 @@
             "cost"
           ]
         }
-      ]
+      ],
+      "example": {
+        "label": "Example",
+        "text": "Could you give me some information on your Russian courses?",
+        "note": "Complete the question with the correct form of the verb in brackets."
+      },
+      "instruction": "Example: Could you give me some information on your Russian courses? Complete the question with the correct form of the verb in brackets."
     },
     {
       "type": "section",
@@ -428,7 +446,13 @@
             0
           ]
         }
-      ]
+      ],
+      "example": {
+        "label": "Example",
+        "text": "A: Where are you from? B: Hungary. A: Oh, really? Whereabouts?",
+        "note": "Choose the follow-up question that continues the conversation naturally."
+      },
+      "instruction": "Example: A: Where are you from? B: Hungary. A: Oh, really? Whereabouts? Choose the follow-up question that continues the conversation naturally."
     },
     {
       "type": "section",
@@ -509,7 +533,13 @@
         "accurate",
         "picked it up",
         "struggled"
-      ]
+      ],
+      "example": {
+        "label": "Example",
+        "text": "I had problems speaking French at work. → I struggled with French at work.",
+        "note": "Replace the underlined words with an expression from the box."
+      },
+      "instruction": "Example: I had problems speaking French at work. → I struggled with French at work. Replace the underlined words with an expression from the box."
     },
     {
       "type": "section",
@@ -583,6 +613,12 @@
           "answer": 0
         }
       ],
+      "example": {
+        "label": "Example",
+        "text": "Question: What course has Trisha decided to go on? → Choose one answer: a, b or c.",
+        "note": "Listen and choose the correct option."
+      },
+      "instruction": "Example: Question: What course has Trisha decided to go on? → Choose one answer: a, b or c. Listen and choose the correct option.",
       "audio": "audio/Unit 01/out3e_4int_sb_u01C_ex03_04.mp3"
     }
   ]
